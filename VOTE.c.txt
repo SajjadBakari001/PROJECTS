@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main(){
+    int age,nationality,kenyan;
+    printf("enter age:\n");
+    scanf("%d",&age);
+    
+    printf("nationality:\n");
+    scanf("%d",&nationality);
+    
+    
+    if(age>= 18 &&nationality);
+    {
+        printf("you are eligible to vote");
+    }
+}
